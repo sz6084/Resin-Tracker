@@ -18,7 +18,7 @@ namespace Resin_Tracker
 		private Thread trackerThread;
 		private readonly TaskbarIcon taskbarIcon;
 
-		private const int MaxResin = 160;
+		private const int MaxResin = 200;
 		private const int MinutesPerResin = 8;
 
 		public MainWindow()
